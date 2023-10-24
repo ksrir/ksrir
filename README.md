@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ksriram kasuba
+- 👋 Hi, I’m sriram kasuba
 - 👀 I’m interested in data engineer, data analyst roles 
 - 🌱 I’m currently learning cloud technolgies such as GCP, AZURE and also query language such as SQL and python programming 
-- 💞️ I’m looking to collaborate on data engineer prpjects 
+- 💞️ I’m looking to collaborate on data engineer projects 
 - 📫 You can reach me out on my email ie. kasubasriram@gmail.com and mobile number: 682-336-7726
 
 <!---
